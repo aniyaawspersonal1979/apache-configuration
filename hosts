@@ -1,2 +1,2 @@
 [prod]
-workstation ansible_ssh_host=172.31.10.232 ansible_ssh_port=22
+ ansible_ssh_host=172.31.10.232 ansible_ssh_port=22
